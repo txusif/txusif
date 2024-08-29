@@ -2,13 +2,13 @@
     <div align="center">
         <h1>Hi there, I'm Toushief Ansari 👋 </h1>
         </hr>
-        <a href="https://github.com/txusif"><img src="https://readme-typing-svg.herokuapp.com?lines=React+JS+Developer;UI+UX+Designer;React+Native+Enthusiast;Web+Designer&font=Roboto&size=24&duration=3500&pause=500&center=true&width=500&height=50&color=9c033a"></a>
+        <a href="https://github.com/txusif"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Smart+Contract+Developer;Blockchain+Developer&font=Roboto&size=24&duration=3500&pause=500&center=true&width=500&height=50&color=9c033a"></a>
         <h4>To be successful, you want to surround yourself with very talented folks whose skills blend very well. That’s the secret of success✨</h4>
     </div>
 </body>
 
 ## 💫 About Me:
-### I'm a Full Stack Developer and Blockchain Developer!
+### I'm a Full Stack Developer, Smart Contract Developer and Blockchain Developer!
 - 🌱 I’m currently expanding my knowledge in Back-end Development.
 - 💎 If you are a Techie let's connect.
 
