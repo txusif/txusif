@@ -4,13 +4,6 @@
     </div>
 </body>
 
-## 💫 About Me:
-
-### I'm a Full Stack Developer, Smart Contract Developer and Blockchain Developer!
-
-- 🌱 I’m currently expanding my knowledge in Back-end Development.
-- 💎 If you are a Techie let's connect.
-
 ## 🌐 Socials:
 
 [![Instagram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/instagram.svg)](https://instagram.com/txusif) [![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/linkedin.svg)](https://linkedin.com/in/txusif) [![X](https://github.com/CLorant/readme-social-icons/raw/main/medium/filled/twitter-x.svg)](https://x.com/txusif)
