@@ -33,5 +33,9 @@
     <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="postman" width="50" height="50">
     <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="git" width="50" height="50">
     <img src="https://github.com/user-attachments/assets/d5b9ec93-bda6-457c-9bb4-3023ffd662fd" alt="github" width="50" height="50">
+    <img src="https://github.com/user-attachments/assets/094cc004-c6d6-47ff-800c-393e70bfa762" alt="solidity" width="50" height="50">
+    <img src="https://github.com/user-attachments/assets/defd27bb-00c3-4b04-8640-cb184bacb397" alt="foundry" width="50" height="50">
+    <img src="https://github.com/user-attachments/assets/4ebe4430-a141-4fc5-9ddd-dc5b439177b6" alt="metamask" width="50" height="50">
+    <img src="https://github.com/user-attachments/assets/eb979871-1d57-4ea7-b8af-bfb1165a2979" alt="ethereum" width="50" height="50">
  
 </div>
