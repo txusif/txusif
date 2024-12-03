@@ -37,5 +37,8 @@
     <img src="https://github.com/user-attachments/assets/defd27bb-00c3-4b04-8640-cb184bacb397" alt="foundry" width="50" height="50">
     <img src="https://github.com/user-attachments/assets/4ebe4430-a141-4fc5-9ddd-dc5b439177b6" alt="metamask" width="50" height="50">
     <img src="https://github.com/user-attachments/assets/eb979871-1d57-4ea7-b8af-bfb1165a2979" alt="ethereum" width="50" height="50">
+    <img src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="graphql" width="50" height="50">
+    <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="docker" width="50" height="50">
+    
  
 </div>
