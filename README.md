@@ -4,7 +4,7 @@
 
 <p align="left">I'm a Full Stack Web Developer from India</p>
 
-More about me: [txusif.me](https://txusif.me)
+More about me: [txusif](https://txusif.vercel.app)
 
 ###
 
@@ -132,10 +132,10 @@ More about me: [txusif.me](https://txusif.me)
   <a href="https://www.instagram.com/txusif/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="mailto:txusif@gmail.com" target="_blank">
+  <a href="mailto:toushiefansari.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://txusif.me" target="_blank">
+  <a href="https://txusif.vercel.app" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Website&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website link"  />
   </a>
 </div>
